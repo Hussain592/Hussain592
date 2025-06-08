@@ -10,12 +10,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 Currently learning: `TypeScript`, `Next.js`, `DevOps`
+- 🔭 I’m currently working on **Frond Hand Developer**
+- 🌱 Currently learning: `NodeJs`, `Next.js`, `python`
 - 🤝 Looking to collaborate on **open-source projects**
 - 🧠 I write technical blogs on [Dev.to](https://dev.to/)
-- 💬 Ask me about **React, Node.js, MongoDB, Firebase**
-- 📫 Reach me at: **your.email@example.com**
 - ⚡ Fun fact: I prefer dark themes 🌑
 
 ---
@@ -56,19 +54,6 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   Made with ❤️ by [YMuhammad Hussain]
