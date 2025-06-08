@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Assalamu Alaikum! I'm Muhammad Hussain
 
-<!--
-**Hussain592/Hussain592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer from Pakistan. I love coding, open-source, and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 My Skills
+- 💻 Languages: JavaScript, Python, HTML, CSS
+- 🛠️ Tools: React, Node.js, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Muhammad Hussain592's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadHussain592&show_icons=true&theme=tokyonight)
+
+## 📂 Projects
+- 🌐 [My Portfolio](https://myportfolio.com)
+- 📦 [React Todo App](https://github.com/ahmad123/react-todo)
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/MuhammadHussain592)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:MuhammadHussain592@example.com)
