@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Frond Hand Developer**
+- 🔭 I’m currently working on **Frond End Developer**
 - 🌱 Currently learning: `NodeJs`, `Next.js`, `python`
 - 🤝 Looking to collaborate on **open-source projects**
 - 🧠 I write technical blogs on [Dev.to](https://dev.to/)
