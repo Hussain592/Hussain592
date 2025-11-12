@@ -4,9 +4,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=00BFFF&height=200&section=header&text=Muhammad%20Hussain%20🚀&fontSize=40&fontAlignY=40&fontColor=fff&desc=MERN%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descAlignY=55&descAlign=50" />
-# 👋 Hi, I'm Muhammad Hussain A
+# 👋 Hi, I'm Muhammad Hussain
 ### MERN Stack Developer | Creative Problem Solver
+
+<p align="center">
+"Building user-friendly web apps & exploring the cloud frontier with continuous learning and innovation."
+</p>
 
 </div>
 
@@ -14,7 +17,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Muhammad Hussain A**, a **MERN Stack Developer** passionate about building modern, fast, and scalable web apps.  
+Hi, I’m **Muhammad Hussain**, a **MERN Stack Developer** passionate about building modern, fast, and scalable web apps.  
 I enjoy solving problems, collaborating with teams, and creating elegant solutions with clean code.  
 
 - 🔭 Currently working as **MERN Stack Developer**  
@@ -65,9 +68,6 @@ Visualizes GitHub stats and contributions with charts.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="120" alt="Coding Icon"/>
-</p>
 
 <div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
@@ -78,37 +78,4 @@ Visualizes GitHub stats and contributions with charts.
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-💻 I love building modern, scalable web apps.  
-Always learning, always coding.
-</p>
-
-<div align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://dev.to/yourprofile"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer"/>
-**💡 “Code. Learn. Build. Repeat.”**  
-<br>
-Made with ❤️ by <b>Muhammad Hussain A</b>
-
-</div>
-
----
-
 ## 👨‍💻 Coding Mode ON
-
-```javascript
-// Daily Routine of a MERN Stack Developer
-function dailyRoutine() {
-  const tasks = ['Design UI', 'Build Backend APIs', 'Connect Database', 'Deploy App'];
-  tasks.forEach(task => console.log(`✅ ${task}`));
-}
-dailyRoutine();
