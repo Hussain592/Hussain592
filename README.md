@@ -15,6 +15,16 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hussain-93a47238a/)
+
+</div>
+
+---
+
 ## 👋 About Me
 
 Hi, I’m **Muhammad Hussain**, a **MERN Stack Developer** passionate about building modern, fast, and scalable web apps.  
