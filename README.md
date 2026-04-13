@@ -31,22 +31,7 @@ I am a Full-Stack Developer with a strong focus on building scalable web applica
 
 ---
 
-## 📊 Performance Metrics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="195px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_radius=10" height="195px" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="100%" />
-</div>
 
 ---
 
