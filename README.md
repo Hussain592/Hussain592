@@ -1,83 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Hussain&fontSize=80&animation=fadeIn" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Muhammad%20Hussain&fontSize=70&animation=twinkling" />
 
-<div align="center">
-  <h3> 👋 Hello, I'm Muhammad Hussain </h3>
-  <p align="center">
-    <strong>MERN Stack Developer | Full-Stack Engineer | Open Source Enthusiast</strong>
-  </p>
-
-  <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:businesswithali068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### 🚀 About Me
-I am a passionate **MERN Stack Developer** dedicated to building high-performance, scalable web applications. I love bridging the gap between elegant design and robust backend logic.
-
-- 🔭 **Current Focus:** Building production-ready SaaS applications.
-- 🌱 **Learning Path:** Mastering `Next.js`, `TypeScript`, and `Cloud Architecture`.
-- ⚡ **Goal:** Creating seamless user experiences through clean code.
-- 💬 **Ask me about:** React, Node.js, and API Optimization.
-
----
-
-### 🛠️ My Toolbox
-
-<div align="left">
+  ### 🚀 MERN Stack Developer | Cloud & DevOps Enthusiast
   
-#### 🌐 Frontend 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:businesswithali068@gmail.com)
+  
+  ---
+</div>
 
-#### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 👨‍💻 Brief Intro
+I am a Full-Stack Developer with a strong focus on building scalable web applications and exploring the cloud frontier. With **2 years in Web Development** and **1 year in Cloud Computing**, I bridge the gap between code and infrastructure.
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+- 🔭 **Currently working on:** Advanced Cloud Computing & DevOps projects.
+- 🌱 **Diving deep into:** AWS, Terraform, and Kubernetes.
+- 💬 **Ask me about:** React, Node.js, Docker, and Shell Scripting.
+- 🥅 **Goal:** To automate everything and build user-centric digital products.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🌐 Full Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postman" />
+</p>
+
+### ☁️ Cloud & DevOps Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,linux,bash,terraform,git,github" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="195px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_radius=10" height="195px" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 📈 GitHub Statistics
+## 🏗️ Noteworthy Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🌐 Portfolio** | My personal space on the web. | React, Tailwind, Framer Motion |
-| **✅ TaskMaster** | Advanced productivity tool with JWT. | MERN, Redux Toolkit |
-| **📊 Analytics** | GitHub insights & visualization tool. | Next.js, Chart.js, API |
+> [!TIP]
+> **[Cloud-Native Task Manager]** - A MERN app deployed using Docker & Kubernetes.
+> 
+> **[Automated CI/CD Pipeline]** - Streamlining deployments with Jenkins & GitHub Actions.
+> 
+> **[SaaS Dashboard]** - Real-time analytics built with Next.js and MongoDB.
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" />
 </div>
 
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="right"><a href="#top">🔼 Back to top</a></p>
