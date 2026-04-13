@@ -49,7 +49,7 @@ I am a Full-Stack Developer with a strong focus on building scalable web applica
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" /> -->
 </div>
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
