@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Muhammad%20Hussain&fontSize=70&animation=twinkling" />
 
-  ### 🚀 MERN Stack Developer | Cloud & DevOps Enthusiast
+  ### 🚀 Full Stack Developer | Cloud & DevOps Enthusiast
   
   
   ---
