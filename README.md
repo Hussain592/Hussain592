@@ -42,7 +42,7 @@ I am a Full-Stack Developer with a strong focus on building scalable web applica
 > 
 > **[Automated CI/CD Pipeline]** - Streamlining deployments with Jenkins & GitHub Actions.
 > 
-> **[SaaS Dashboard]** - Real-time analytics built with Next.js and MongoDB.
+> **[SaaS Dashboard]** - Real-time analytics built with Next.js and MongoDB and MYQSL.
 
 ---
 
